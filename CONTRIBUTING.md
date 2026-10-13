@@ -1,5 +1,7 @@
 # Contributing to oracle-database-lab 
-  
+
+# Editar CONTRIBUTING.md añadiendo "security" a la lista de tipos 
+
 ## Branch naming 
 <type>/<issue number>-<short-description>, e.g. feature/56-customer-search, fix/85- customer-email-validation 
   
