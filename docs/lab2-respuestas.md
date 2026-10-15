@@ -34,7 +34,9 @@ Porque los cambios ya se han integrado en `main`. Al borrar la branch únicament
 
 ## 8. ¿Qué información debería contener siempre la descripción de un Pull Request, como mínimo?
 
-Debe incluir un resumen de lo realizado (Summary), los archivos o elementos modificados (Changes), cómo se han probado los cambios (Testing) y el Issue relacionado (Related Issue). Así, el revisor puede entender qué se ha hecho, por qué y cómo verificarlo.
+Debe incluir un resumen de lo realizado (Summary), los archivos o elementos modificados (Changes), cómo se han probado los cambios (Testing) y el Issue relacionado (Related Issue).
+
+Además, las pruebas deben indicar cómo verificar los cambios para que el revisor pueda comprobar que funcionan correctamente y cumplen los requisitos.
 
 ## 9. Un reviewer escribe solo "esto está mal" como comentario. ¿Qué le falta a ese comentario para ser útil? Reescríbelo tú con un ejemplo inventado.
 
